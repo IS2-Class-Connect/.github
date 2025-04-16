@@ -37,7 +37,7 @@
 - **Containerization & Deployment:** Docker, Docker Compose, Kubernetes (optional)
 - **Real-time & Notifications:** Firebase Realtime Database, FCM, Twilio
 - **Monitoring:** Prometheus
-- **Logging:** Pino for structured and efficient logging.
+- **Logging:** @nestjs/common Logger for structured and efficient logging.
 
 ---
 
