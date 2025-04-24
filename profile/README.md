@@ -36,7 +36,7 @@
 - **CI/CD:** GitHub Actions
 - **Containerization & Deployment:** Docker, Docker Compose, Kubernetes (optional)
 - **Real-time & Notifications:** Firebase Realtime Database, FCM, Twilio
-- **Monitoring:** Prometheus
+- **Monitoring:** Prometheus + Grafana
 - **Logging:** @nestjs/common Logger for structured and efficient logging.
 
 ---
